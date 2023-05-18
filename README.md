@@ -10,7 +10,7 @@ Working of the project-
 
 
 Controls-
-Up arrow - Rotate the tetromino
-Left arrow - Move the tetromino to the left
-Right arrow - Move the tetromino to the right
-Down arrow - Speed up the tetromino
+  Up arrow - Rotate the tetromino
+  Left arrow - Move the tetromino to the left
+  Right arrow - Move the tetromino to the right
+  Down arrow - Speed up the tetromino
